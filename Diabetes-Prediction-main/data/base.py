@@ -47,7 +47,7 @@ head_template = """
     justify-content: center;
     gap: 15px;
     flex-wrap: wrap;">
-        <img src="data:image/png;base64,{logo_base64}" style="height: 80px; width: auto; vertical-align: middle; background: transparent; mix-blend-mode: normal;" />Azan Zindagi Diabetes Prediction App
+        <img src="data:image/png;base64,{logo_base64}" style="height: 70px; width: auto; vertical-align: middle; background: transparent; mix-blend-mode: normal;" />Asan Zindagi Diabetes Prediction App
     </div>
     <div style="text-align: center; font-size: 18px; color: #5D6D7E; margin-bottom: 60px;">
         Harness the power of machine learning to predict diabetes and provide insights!
